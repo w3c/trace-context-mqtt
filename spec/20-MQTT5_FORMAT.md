@@ -2,7 +2,7 @@
 
 MQTT is a messaging protocol. As any messaging protocol it is commonly used as a
 mechanism for asynchronous or postponed execution of tasks. In those scenarios
-publisher of the message needs to communicate the trace context of execution to
+message publishers need to communicate the trace context of execution to
 the consumer of that same message. So publishing and consuming tasks can be
 analyzed as a part of a single distributed trace.
 
