@@ -1,4 +1,4 @@
-# MQTT 3 recommendation
+# MQTT v3 recommendation
 
 Before MQTT 5 there were no extensibility metadata defined for the messages. Thus
 this section is only a set of recommendations on how trace context can be
