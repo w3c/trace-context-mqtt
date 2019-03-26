@@ -1,4 +1,4 @@
-# MQTT 5 format
+# MQTT v5.0 format
 
 MQTT is a messaging protocol. As any messaging protocol it is commonly used as a
 mechanism for asynchronous or postponed execution of tasks. In those scenarios
