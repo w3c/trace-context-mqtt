@@ -40,7 +40,7 @@ Payload with trace context configured will look like following:
 }
 ```
 
-## Handling e2e encryption
+## Handling end-to-end encryption
 
 TBD: Should there be a note that for e2e encryption one may decide to send trace
 context un-encrypted while the rest of the message can be encrypted?
