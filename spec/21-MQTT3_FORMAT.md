@@ -6,7 +6,7 @@ implemented, not the specification.
 
 ## JSON payload
 
-It is common that MQTT message payload represented as JSON string. In this case
+It is common that MQTT message payloads are represented as a JSON string. In this case
 it is recommended to set `traceparent` and `tracestate` fields as a fields on a
 outermost JSON object.
 
