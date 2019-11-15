@@ -1,6 +1,6 @@
 # MQTT v3 recommendation
 
-Before MQTT 5 there were no extensibility metadata defined for the messages. Thus
+Before [[[MQTT5]]] there were no extensibility metadata defined for the messages. Thus
 this section is only a set of recommendations on how trace context can be
 implemented, not the specification.
 
@@ -47,5 +47,5 @@ context un-encrypted while the rest of the message can be encrypted?
 
 ## Binary payload
 
-For binary payload - [binary protocol](..\extension-binary.html) may be used to
+For binary payload - [Trace Context: binary protocol](https://w3c.github.io/trace-context-binary/) may be used to
 propagate trace context fields.
