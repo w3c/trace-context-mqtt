@@ -9,6 +9,7 @@ Specification for distributed tracing context propagation format:
 - Trace Context: MQTT protocol
   [Report](https://w3c.github.io/trace-context-mqtt/).
   Status: Editor's draft.
+  - See [rationale document](RATIONALE.md) for the context of decisions made in this specification.
   - Changes are tracked on GitHub, communicated in meetings and e-mails
     distribution list.
 
